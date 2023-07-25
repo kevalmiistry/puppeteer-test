@@ -1,0 +1,1 @@
+In this puppeteer is implemented to generate PDF file from HTML template
